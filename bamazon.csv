@@ -1,0 +1,11 @@
+item_id,product_name,department_name,stock_quantity,price
+1,Computers,Electronics,1942, 39.91 
+2,Measuring Stick,Home Improvement,3000, 36.51 
+3,Dishes,Kitchen & Bath,2000, 35.41 
+4,Plants,Home & Garden,1000, 35.14 
+5,Television,Electronics,1700, 34.44 
+6,Toolbox,Home Improvement,1350, 34.37 
+7,Pots & Pans,Kitchen & Bath,1340, 34.11 
+8,Weights,Sports & Fitness,1200, 32.02 
+9,Lawn Chair,Home & Garden,1242, 31.31 
+10,Cell Phones,Electronics,1024, 31.05 
